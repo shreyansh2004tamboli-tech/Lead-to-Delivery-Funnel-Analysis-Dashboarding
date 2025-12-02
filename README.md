@@ -9,7 +9,7 @@ The task was to analyze the complete Lead-to-Delivery funnel for a multi-store E
 * Categorize all leads into Hot, Warm, and Cold based on lead quality.
 * Calculate NPS (Net Promoter Score) for each store based on customer ratings.
 ## Dashboarding
-* Build a lead conversion funnel visualization for each store.
+* Build a lead conversion visualization for each store.
 * Create charts showing TAT performance across different funnel stages.
 * Visualize cancellation trends along with reasons and store variations.
 * Add a distribution chart for Hot, Warm, and Cold leads.
