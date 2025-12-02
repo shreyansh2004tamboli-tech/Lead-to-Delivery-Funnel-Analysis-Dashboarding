@@ -16,6 +16,16 @@ The task was to analyze the complete Lead-to-Delivery funnel for a multi-store E
 * Display customer ratings and satisfaction distribution.
 * Design the dashboard to be interactive and easy to read, with slicers/filters for store-level insights.
 
+
 ## Snapshots/ Demo
 
- ![Alt text](https://github.com/shreyansh2004tamboli-tech/Vendor-sales-Analysis/blob/main/Snapshot_1.png)
+ ![Alt text](https://github.com/shreyansh2004tamboli-tech/Lead-to-Delivery-Funnel-Analysis-Dashboarding/blob/main/Dashboard%20Snapshot.png)
+
+ ## Insights from the Analysis
+
+ * Early-stage funnel performance is strong, with high conversions from Lead → Pre-Booking → Booking, but a noticeable drop at the Delivery stage, bringing the overall conversion rate down to ~73%.
+ * Delivery TAT averages 4–5 days, with Delhi showing the fastest processing and Mumbai experiencing slight delays—mainly in the Booking → Delivery phase.
+ * Most leads fall under the Warm category (~50%), indicating good interest levels, but moderate final conversions suggest gaps in follow-up and decision-support during later stages.
+ * The top reasons for cancellations are Changed Mind, Price Concerns, and Model Unavailability, with many cancellations occurring after pre-booking, reflecting uncertainty and insufficient persuasion during the final decision phase.
+ * Customer feedback reveals a majority of Passive responders and fewer Promoters, signaling that while customers are generally satisfied, the overall experience is not impactful enough to drive strong advocacy.
+
