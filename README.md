@@ -19,7 +19,7 @@ The task was to analyze the complete Lead-to-Delivery funnel for a multi-store E
 
 ## Snapshots/ Demo
 
- ![Alt text](https://github.com/shreyansh2004tamboli-tech/Lead-to-Delivery-Funnel-Analysis-Dashboarding/blob/main/Dashboard%20Snapshot.png)
+ ![Alt text](https://github.com/shreyansh2004tamboli-tech/Lead-to-Delivery-Funnel-Analysis-Dashboarding/blob/main/Dashboard%20Sanpshot.png)
 
  ## Insights from the Analysis
 
